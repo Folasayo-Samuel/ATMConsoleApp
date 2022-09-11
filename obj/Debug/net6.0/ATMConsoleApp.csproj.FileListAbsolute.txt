@@ -1,0 +1,15 @@
+/home/saint/Desktop/ATMConsoleApp/bin/Debug/net6.0/ATMConsoleApp
+/home/saint/Desktop/ATMConsoleApp/bin/Debug/net6.0/ATMConsoleApp.deps.json
+/home/saint/Desktop/ATMConsoleApp/bin/Debug/net6.0/ATMConsoleApp.runtimeconfig.json
+/home/saint/Desktop/ATMConsoleApp/bin/Debug/net6.0/ATMConsoleApp.dll
+/home/saint/Desktop/ATMConsoleApp/bin/Debug/net6.0/ATMConsoleApp.pdb
+/home/saint/Desktop/ATMConsoleApp/obj/Debug/net6.0/ATMConsoleApp.csproj.AssemblyReference.cache
+/home/saint/Desktop/ATMConsoleApp/obj/Debug/net6.0/ATMConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/saint/Desktop/ATMConsoleApp/obj/Debug/net6.0/ATMConsoleApp.AssemblyInfoInputs.cache
+/home/saint/Desktop/ATMConsoleApp/obj/Debug/net6.0/ATMConsoleApp.AssemblyInfo.cs
+/home/saint/Desktop/ATMConsoleApp/obj/Debug/net6.0/ATMConsoleApp.csproj.CoreCompileInputs.cache
+/home/saint/Desktop/ATMConsoleApp/obj/Debug/net6.0/ATMConsoleApp.dll
+/home/saint/Desktop/ATMConsoleApp/obj/Debug/net6.0/refint/ATMConsoleApp.dll
+/home/saint/Desktop/ATMConsoleApp/obj/Debug/net6.0/ATMConsoleApp.pdb
+/home/saint/Desktop/ATMConsoleApp/obj/Debug/net6.0/ATMConsoleApp.genruntimeconfig.cache
+/home/saint/Desktop/ATMConsoleApp/obj/Debug/net6.0/ref/ATMConsoleApp.dll
