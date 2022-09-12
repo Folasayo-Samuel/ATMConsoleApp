@@ -5,7 +5,7 @@ using System.Threading;
 using System.Linq;
 
 
-namespace ATMApp.UI;
+namespace ATMConsoleApp.UI;
 
 public class Validator
 {
